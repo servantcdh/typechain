@@ -166,7 +166,7 @@ dict.add(kimchi);
 def = dict.def('kimchi');
 console.log(def);
 
-const newKimchi = new Word('kimchi', '조센징의 음식');
+const newKimchi = new Word('kimchi', '한국의 소울 푸드');
 dict.update(newKimchi);
 def = dict.def('kimchi');
 console.log(def);
