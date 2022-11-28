@@ -1,9 +1,2 @@
-class Block {
-    constructor(
-        private data: string
-    ) {}
+import { init } from "myPackage";
 
-    static hello() {
-        return 'hello';
-    }
-}
