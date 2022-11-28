@@ -1,3 +1,9 @@
+/**
+ * crypto is javascript module (CommonJS => tsconfig compilerOption.module)
+ * named export => tsconfig compilerOption.esModuleInterop
+ * .d.ts in ts-node module
+ * alternative, DefinitelyTyped
+ */
 import crypto from "crypto";
 
 interface BlockShape {
