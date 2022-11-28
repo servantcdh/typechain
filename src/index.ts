@@ -1,2 +1,5 @@
-import { init } from "myPackage";
+import { init, exit } from "myPackage";
 
+init({
+    url: ""
+});
